@@ -4,7 +4,8 @@ This is a movie mobile app where the user can:
 - Enter as guest
 - Post information about movies
 - Search movies by genres
-- View movie info
+- View movie info\
+This app was developed using java. We hosted the databse on an online hosting website (000webhost.com), and used rest files to get/enter data from/to the app
 ### Screenshots
 ![s1](https://user-images.githubusercontent.com/66807839/84538444-579e1200-acfa-11ea-89f8-58fc33ae71b1.jpeg)
 ![s2](https://user-images.githubusercontent.com/66807839/84538449-5967d580-acfa-11ea-80d7-16e56fbc5c60.jpeg)
